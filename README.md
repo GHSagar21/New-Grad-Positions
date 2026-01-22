@@ -88,7 +88,7 @@ Use this repo to share and keep track of entry-level software, tech, CS, PM, qua
 </tr>
 <tr>
 <td><strong><a href="https://simplify.jobs/c/Blackboard?utm_source=GHList&utm_medium=company">Blackboard</a></strong></td>
-<td>Software Engineer 1</td>
+<td>Software Engineer 1(Requires US Citizenship)</td>
 <td>Remote in USA</td>
 <td><div align="center"><a href="https://jobs.jobvite.com/blackboard/job/oixlzfwt?nl=1&nl=1&fr=false&utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/fbjwDvo.png" width="52" alt="Apply"></a> <a href="https://simplify.jobs/p/8d56eed7-58c9-41f5-8893-3e79eeddce85?utm_source=GHList"><img src="https://i.imgur.com/aVnQdox.png" width="28" alt="Simplify"></a></div></td>
 <td>0d</td>
